@@ -1,3 +1,4 @@
+
 public class Fibonacci {
     public static void main(String[] args) {
         System.out.println(getFibonacci(1));
@@ -10,6 +11,7 @@ public class Fibonacci {
         System.out.println(getFibonacci(8));
         System.out.println(getFibonacci(9));
         System.out.println(getFibonacci(10));
+
 
     }
 
